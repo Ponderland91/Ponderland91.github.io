@@ -3,7 +3,7 @@ h1 {
     text-align: center;
     font-family: Helvetica;
     font-size: 100px;
-    color: khaki
+    color: khaki;
 }
 
 h2 {
@@ -28,7 +28,7 @@ h2 {
 p bold {
     font-family: Helvetica;
     font-weight: bold;
-    color: blue
+    color: blue;
 }
 
 h3 {
